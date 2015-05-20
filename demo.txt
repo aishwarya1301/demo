@@ -4,3 +4,4 @@ hi hi hi hi:trying to change from master!
 New branch changes demo...
 Adding new Line. While removing.
 Lets see what happens.
+hi hi hi hi:changed from B2
