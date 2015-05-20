@@ -1,4 +1,6 @@
+Im making changes from the master.
 Starting the first line.
-hi hi hi hi
+hi hi hi hi:trying to change from master! 
 New branch changes demo...
 Adding new Line. While removing.
+Lets see what happens.
