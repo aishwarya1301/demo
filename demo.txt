@@ -1,5 +1,7 @@
-Starting the first line.:again added from B2
-hi hi hi hi:changed from B2
+Im making changes from the master.
+Starting the first line.
+hi hi hi hi:trying to change from master! 
 New branch changes demo...
 Adding new Line. While removing.
-Added new line from B2.
+Lets see what happens.
+hi hi hi hi:changed from B2
